@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 
-
 @Entity
 public class PcHardware {
     @Id
